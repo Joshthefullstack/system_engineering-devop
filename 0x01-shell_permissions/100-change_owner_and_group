@@ -1,2 +1,2 @@
 #!/bin/bash
-su vincent chgroup staff .
+su chgrp vincent staff .
