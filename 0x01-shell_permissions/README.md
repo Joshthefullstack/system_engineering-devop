@@ -1,1 +1,1 @@
-make file accessible
+multiple permissions
