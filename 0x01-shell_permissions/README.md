@@ -1,1 +1,1 @@
-sets mode of file
+directories
