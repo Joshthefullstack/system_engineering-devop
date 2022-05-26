@@ -1,1 +1,1 @@
-groups that user is part of
+change file permissions to another owner
