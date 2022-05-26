@@ -1,1 +1,1 @@
-to create empty file
+make file accessible
