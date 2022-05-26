@@ -1,1 +1,1 @@
-symbolic permission
+directory permission
