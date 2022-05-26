@@ -1,1 +1,1 @@
-directory permission
+if only
