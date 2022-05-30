@@ -1,1 +1,1 @@
-display contents of multiple files
+display last ten lines
