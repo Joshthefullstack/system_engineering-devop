@@ -1,1 +1,1 @@
-best school
+standard input
