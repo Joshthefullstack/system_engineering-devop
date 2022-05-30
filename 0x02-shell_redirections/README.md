@@ -1,1 +1,1 @@
-standard input
+duplicate a line
