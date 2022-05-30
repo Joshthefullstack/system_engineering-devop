@@ -1,1 +1,1 @@
-duplicate a line
+duplicate last line
