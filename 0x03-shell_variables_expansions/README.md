@@ -1,1 +1,1 @@
-create local directories
+create global variable
