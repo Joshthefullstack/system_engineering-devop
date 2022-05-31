@@ -1,1 +1,1 @@
-PATH
+counts number of directories
