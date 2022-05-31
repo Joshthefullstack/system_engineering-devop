@@ -1,1 +1,1 @@
-change to binary
+combinations
