@@ -1,1 +1,1 @@
-adding integers and variables together
+divide and rule
