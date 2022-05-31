@@ -1,1 +1,1 @@
-local variables
+create local directories
