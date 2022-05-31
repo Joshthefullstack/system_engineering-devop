@@ -1,1 +1,1 @@
-create global variable
+adding integers and variables together
