@@ -1,1 +1,1 @@
-enviromental variables
+local variables
